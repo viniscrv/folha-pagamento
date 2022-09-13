@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Folha de Pagamentos</title>
+    <title>Folha de Pagamentos - tabela</title>
     <style type="text/css">
         body {
             width: 100%;
